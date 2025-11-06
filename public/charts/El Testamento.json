@@ -1,0 +1,6300 @@
+{
+  "metadata": {
+    "title": "El Testamento",
+    "artist": "Rafael Escalona",
+    "difficulty": "medio",
+    "total_notes": 784,
+    "duration": 200.69,
+    "audio_file": "src/assets/music/El Testamento.mp3",
+    "created": "auto-generated"
+  },
+  "chart": [
+    {
+      "time": 0.464,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 0.65,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 0.859,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 1.045,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 1.37,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 1.579,
+      "lane": 1,
+      "type": "tap",
+      "duration": 0,
+      "color": "#ef4444",
+      "key": "S"
+    },
+    {
+      "time": 1.765,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 1.95,
+      "lane": 1,
+      "type": "tap",
+      "duration": 0,
+      "color": "#ef4444",
+      "key": "S"
+    },
+    {
+      "time": 2.159,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 2.345,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 2.531,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 2.74,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 2.926,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 3.111,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 3.46,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 3.646,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 3.831,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 4.017,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 4.203,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 4.389,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 4.574,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 4.946,
+      "lane": 1,
+      "type": "tap",
+      "duration": 0,
+      "color": "#ef4444",
+      "key": "S"
+    },
+    {
+      "time": 5.48,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 5.851,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 6.06,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 6.246,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 6.594,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 6.803,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 6.989,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 7.338,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 7.546,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 7.732,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 7.918,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 8.104,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 8.336,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 8.661,
+      "lane": 1,
+      "type": "tap",
+      "duration": 0,
+      "color": "#ef4444",
+      "key": "S"
+    },
+    {
+      "time": 8.87,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 9.056,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 9.242,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 9.59,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 9.799,
+      "lane": 1,
+      "type": "tap",
+      "duration": 0,
+      "color": "#ef4444",
+      "key": "S"
+    },
+    {
+      "time": 9.985,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 10.356,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 10.565,
+      "lane": 1,
+      "type": "tap",
+      "duration": 0,
+      "color": "#ef4444",
+      "key": "S"
+    },
+    {
+      "time": 10.751,
+      "lane": 1,
+      "type": "tap",
+      "duration": 0,
+      "color": "#ef4444",
+      "key": "S"
+    },
+    {
+      "time": 11.099,
+      "lane": 1,
+      "type": "tap",
+      "duration": 0,
+      "color": "#ef4444",
+      "key": "S"
+    },
+    {
+      "time": 11.308,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 11.517,
+      "lane": 1,
+      "type": "tap",
+      "duration": 0,
+      "color": "#ef4444",
+      "key": "S"
+    },
+    {
+      "time": 11.703,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 11.889,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 12.074,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 12.26,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 12.608,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 12.817,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 13.003,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 13.375,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 13.584,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 13.769,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 14.118,
+      "lane": 1,
+      "type": "tap",
+      "duration": 0,
+      "color": "#ef4444",
+      "key": "S"
+    },
+    {
+      "time": 14.512,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 14.698,
+      "lane": 1,
+      "type": "tap",
+      "duration": 0,
+      "color": "#ef4444",
+      "key": "S"
+    },
+    {
+      "time": 15.07,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 15.441,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 15.627,
+      "lane": 1,
+      "type": "tap",
+      "duration": 0,
+      "color": "#ef4444",
+      "key": "S"
+    },
+    {
+      "time": 15.999,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 16.184,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 16.37,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 16.556,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 16.742,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 17.113,
+      "lane": 1,
+      "type": "tap",
+      "duration": 0,
+      "color": "#ef4444",
+      "key": "S"
+    },
+    {
+      "time": 17.322,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 17.508,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 17.856,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 18.065,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 18.413,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 18.622,
+      "lane": 1,
+      "type": "tap",
+      "duration": 0,
+      "color": "#ef4444",
+      "key": "S"
+    },
+    {
+      "time": 18.994,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 19.365,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 19.574,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 19.783,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 20.132,
+      "lane": 1,
+      "type": "tap",
+      "duration": 0,
+      "color": "#ef4444",
+      "key": "S"
+    },
+    {
+      "time": 20.317,
+      "lane": 1,
+      "type": "tap",
+      "duration": 0,
+      "color": "#ef4444",
+      "key": "S"
+    },
+    {
+      "time": 20.526,
+      "lane": 1,
+      "type": "tap",
+      "duration": 0,
+      "color": "#ef4444",
+      "key": "S"
+    },
+    {
+      "time": 20.852,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 21.06,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 21.246,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 21.618,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 21.804,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 21.989,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 22.384,
+      "lane": 1,
+      "type": "tap",
+      "duration": 0,
+      "color": "#ef4444",
+      "key": "S"
+    },
+    {
+      "time": 22.57,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 22.756,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 23.127,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 23.499,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 23.87,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 24.079,
+      "lane": 0,
+      "type": "tap",
+      "duration": 0,
+      "color": "#22c55e",
+      "key": "A"
+    },
+    {
+      "time": 24.265,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 24.636,
+      "lane": 1,
+      "type": "tap",
+      "duration": 0,
+      "color": "#ef4444",
+      "key": "S"
+    },
+    {
+      "time": 24.845,
+      "lane": 1,
+      "type": "tap",
+      "duration": 0,
+      "color": "#ef4444",
+      "key": "S"
+    },
+    {
+      "time": 25.031,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 25.379,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 25.588,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 25.797,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 26.146,
+      "lane": 1,
+      "type": "tap",
+      "duration": 0,
+      "color": "#ef4444",
+      "key": "S"
+    },
+    {
+      "time": 26.331,
+      "lane": 1,
+      "type": "tap",
+      "duration": 0,
+      "color": "#ef4444",
+      "key": "S"
+    },
+    {
+      "time": 26.54,
+      "lane": 1,
+      "type": "tap",
+      "duration": 0,
+      "color": "#ef4444",
+      "key": "S"
+    },
+    {
+      "time": 26.889,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 27.098,
+      "lane": 0,
+      "type": "tap",
+      "duration": 0,
+      "color": "#22c55e",
+      "key": "A"
+    },
+    {
+      "time": 27.283,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 27.655,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 27.841,
+      "lane": 1,
+      "type": "tap",
+      "duration": 0,
+      "color": "#ef4444",
+      "key": "S"
+    },
+    {
+      "time": 28.026,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 28.398,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 28.584,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 28.793,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 28.979,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 29.164,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 29.35,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 29.536,
+      "lane": 1,
+      "type": "tap",
+      "duration": 0,
+      "color": "#ef4444",
+      "key": "S"
+    },
+    {
+      "time": 29.884,
+      "lane": 1,
+      "type": "tap",
+      "duration": 0,
+      "color": "#ef4444",
+      "key": "S"
+    },
+    {
+      "time": 30.093,
+      "lane": 0,
+      "type": "tap",
+      "duration": 0,
+      "color": "#22c55e",
+      "key": "A"
+    },
+    {
+      "time": 30.279,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 30.65,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 30.836,
+      "lane": 1,
+      "type": "tap",
+      "duration": 0,
+      "color": "#ef4444",
+      "key": "S"
+    },
+    {
+      "time": 31.022,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 31.393,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 31.579,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 31.788,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 32.113,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 32.322,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 32.531,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 32.879,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 33.065,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 33.251,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 33.46,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 33.646,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 33.831,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 34.017,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 34.389,
+      "lane": 1,
+      "type": "tap",
+      "duration": 0,
+      "color": "#ef4444",
+      "key": "S"
+    },
+    {
+      "time": 34.575,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 34.783,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 35.132,
+      "lane": 1,
+      "type": "tap",
+      "duration": 0,
+      "color": "#ef4444",
+      "key": "S"
+    },
+    {
+      "time": 35.341,
+      "lane": 1,
+      "type": "tap",
+      "duration": 0,
+      "color": "#ef4444",
+      "key": "S"
+    },
+    {
+      "time": 35.55,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 35.898,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 36.084,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 36.293,
+      "lane": 1,
+      "type": "tap",
+      "duration": 0,
+      "color": "#ef4444",
+      "key": "S"
+    },
+    {
+      "time": 36.641,
+      "lane": 0,
+      "type": "tap",
+      "duration": 0,
+      "color": "#22c55e",
+      "key": "A"
+    },
+    {
+      "time": 36.85,
+      "lane": 1,
+      "type": "tap",
+      "duration": 0,
+      "color": "#ef4444",
+      "key": "S"
+    },
+    {
+      "time": 37.036,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 37.222,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 37.593,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 37.802,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 38.15,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 38.359,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 38.708,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 38.893,
+      "lane": 1,
+      "type": "tap",
+      "duration": 0,
+      "color": "#ef4444",
+      "key": "S"
+    },
+    {
+      "time": 39.079,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 39.265,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 39.636,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 39.822,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 40.031,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 40.38,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 40.565,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 40.774,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 41.099,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 41.308,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 41.517,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 41.866,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 42.075,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 42.284,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 42.469,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 42.655,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 43.027,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 43.212,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 43.398,
+      "lane": 1,
+      "type": "tap",
+      "duration": 0,
+      "color": "#ef4444",
+      "key": "S"
+    },
+    {
+      "time": 43.584,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 43.793,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 44.164,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 44.536,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 44.722,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 44.907,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 45.093,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 45.302,
+      "lane": 1,
+      "type": "tap",
+      "duration": 0,
+      "color": "#ef4444",
+      "key": "S"
+    },
+    {
+      "time": 45.65,
+      "lane": 1,
+      "type": "tap",
+      "duration": 0,
+      "color": "#ef4444",
+      "key": "S"
+    },
+    {
+      "time": 45.859,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 46.045,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 46.393,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 46.602,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 46.788,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 47.16,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 47.531,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 47.717,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 47.903,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 48.089,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 48.274,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 48.646,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 48.832,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 49.203,
+      "lane": 1,
+      "type": "tap",
+      "duration": 0,
+      "color": "#ef4444",
+      "key": "S"
+    },
+    {
+      "time": 49.389,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 49.598,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 49.784,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 50.155,
+      "lane": 1,
+      "type": "tap",
+      "duration": 0,
+      "color": "#ef4444",
+      "key": "S"
+    },
+    {
+      "time": 50.341,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 50.55,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 50.898,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 51.084,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 51.27,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 51.641,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 51.827,
+      "lane": 0,
+      "type": "tap",
+      "duration": 0,
+      "color": "#22c55e",
+      "key": "A"
+    },
+    {
+      "time": 52.013,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 52.198,
+      "lane": 1,
+      "type": "tap",
+      "duration": 0,
+      "color": "#ef4444",
+      "key": "S"
+    },
+    {
+      "time": 52.384,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 52.57,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 52.802,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 53.127,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 53.336,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 53.522,
+      "lane": 1,
+      "type": "tap",
+      "duration": 0,
+      "color": "#ef4444",
+      "key": "S"
+    },
+    {
+      "time": 53.731,
+      "lane": 1,
+      "type": "tap",
+      "duration": 0,
+      "color": "#ef4444",
+      "key": "S"
+    },
+    {
+      "time": 54.079,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 54.288,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 54.637,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 55.008,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 55.194,
+      "lane": 1,
+      "type": "tap",
+      "duration": 0,
+      "color": "#ef4444",
+      "key": "S"
+    },
+    {
+      "time": 55.38,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 55.565,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 55.774,
+      "lane": 1,
+      "type": "tap",
+      "duration": 0,
+      "color": "#ef4444",
+      "key": "S"
+    },
+    {
+      "time": 56.123,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 56.332,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 56.517,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 56.866,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 57.051,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 57.26,
+      "lane": 1,
+      "type": "tap",
+      "duration": 0,
+      "color": "#ef4444",
+      "key": "S"
+    },
+    {
+      "time": 57.609,
+      "lane": 1,
+      "type": "tap",
+      "duration": 0,
+      "color": "#ef4444",
+      "key": "S"
+    },
+    {
+      "time": 57.794,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 58.003,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 58.329,
+      "lane": 1,
+      "type": "tap",
+      "duration": 0,
+      "color": "#ef4444",
+      "key": "S"
+    },
+    {
+      "time": 58.538,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 58.746,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 59.095,
+      "lane": 1,
+      "type": "tap",
+      "duration": 0,
+      "color": "#ef4444",
+      "key": "S"
+    },
+    {
+      "time": 59.304,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 59.49,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 59.675,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 59.861,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 60.047,
+      "lane": 1,
+      "type": "tap",
+      "duration": 0,
+      "color": "#ef4444",
+      "key": "S"
+    },
+    {
+      "time": 60.256,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 60.604,
+      "lane": 1,
+      "type": "tap",
+      "duration": 0,
+      "color": "#ef4444",
+      "key": "S"
+    },
+    {
+      "time": 60.813,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 60.999,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 61.347,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 61.556,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 61.765,
+      "lane": 1,
+      "type": "tap",
+      "duration": 0,
+      "color": "#ef4444",
+      "key": "S"
+    },
+    {
+      "time": 61.951,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 62.137,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 62.322,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 62.694,
+      "lane": 1,
+      "type": "tap",
+      "duration": 0,
+      "color": "#ef4444",
+      "key": "S"
+    },
+    {
+      "time": 62.88,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 63.065,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 63.251,
+      "lane": 1,
+      "type": "tap",
+      "duration": 0,
+      "color": "#ef4444",
+      "key": "S"
+    },
+    {
+      "time": 63.599,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 63.808,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 63.994,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 64.18,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 64.366,
+      "lane": 1,
+      "type": "tap",
+      "duration": 0,
+      "color": "#ef4444",
+      "key": "S"
+    },
+    {
+      "time": 64.551,
+      "lane": 1,
+      "type": "tap",
+      "duration": 0,
+      "color": "#ef4444",
+      "key": "S"
+    },
+    {
+      "time": 64.76,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 65.132,
+      "lane": 1,
+      "type": "tap",
+      "duration": 0,
+      "color": "#ef4444",
+      "key": "S"
+    },
+    {
+      "time": 65.318,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 65.503,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 65.689,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 65.875,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 66.061,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 66.247,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 66.432,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 66.618,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 66.804,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 67.013,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 67.199,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 67.57,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 67.756,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 67.942,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 68.127,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 68.499,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 68.847,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 69.056,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 69.242,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 69.59,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 69.799,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 69.985,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 70.333,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 70.542,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 70.728,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 70.914,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 71.1,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 71.285,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 71.494,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 71.843,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 72.052,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 72.237,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 72.609,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 72.98,
+      "lane": 1,
+      "type": "tap",
+      "duration": 0,
+      "color": "#ef4444",
+      "key": "S"
+    },
+    {
+      "time": 73.352,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 73.538,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 73.747,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 74.095,
+      "lane": 1,
+      "type": "tap",
+      "duration": 0,
+      "color": "#ef4444",
+      "key": "S"
+    },
+    {
+      "time": 74.281,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 74.49,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 74.699,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 75.047,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 75.233,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 75.604,
+      "lane": 1,
+      "type": "tap",
+      "duration": 0,
+      "color": "#ef4444",
+      "key": "S"
+    },
+    {
+      "time": 75.813,
+      "lane": 0,
+      "type": "tap",
+      "duration": 0,
+      "color": "#22c55e",
+      "key": "A"
+    },
+    {
+      "time": 75.999,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 76.347,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 76.556,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 76.765,
+      "lane": 1,
+      "type": "tap",
+      "duration": 0,
+      "color": "#ef4444",
+      "key": "S"
+    },
+    {
+      "time": 77.09,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 77.299,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 77.508,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 77.717,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 78.065,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 78.251,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 78.623,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 78.832,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 79.018,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 79.389,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 79.598,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 79.784,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 80.132,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 80.341,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 80.689,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 80.875,
+      "lane": 1,
+      "type": "tap",
+      "duration": 0,
+      "color": "#ef4444",
+      "key": "S"
+    },
+    {
+      "time": 81.432,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 81.618,
+      "lane": 1,
+      "type": "tap",
+      "duration": 0,
+      "color": "#ef4444",
+      "key": "S"
+    },
+    {
+      "time": 81.804,
+      "lane": 1,
+      "type": "tap",
+      "duration": 0,
+      "color": "#ef4444",
+      "key": "S"
+    },
+    {
+      "time": 82.013,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 82.338,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 82.547,
+      "lane": 1,
+      "type": "tap",
+      "duration": 0,
+      "color": "#ef4444",
+      "key": "S"
+    },
+    {
+      "time": 82.733,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 83.104,
+      "lane": 1,
+      "type": "tap",
+      "duration": 0,
+      "color": "#ef4444",
+      "key": "S"
+    },
+    {
+      "time": 83.499,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 83.847,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 84.265,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 84.637,
+      "lane": 0,
+      "type": "tap",
+      "duration": 0,
+      "color": "#22c55e",
+      "key": "A"
+    },
+    {
+      "time": 84.822,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 85.031,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 85.217,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 85.403,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 85.589,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 85.798,
+      "lane": 1,
+      "type": "tap",
+      "duration": 0,
+      "color": "#ef4444",
+      "key": "S"
+    },
+    {
+      "time": 86.146,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 86.332,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 86.541,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 86.912,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 87.098,
+      "lane": 0,
+      "type": "tap",
+      "duration": 0,
+      "color": "#22c55e",
+      "key": "A"
+    },
+    {
+      "time": 87.307,
+      "lane": 1,
+      "type": "tap",
+      "duration": 0,
+      "color": "#ef4444",
+      "key": "S"
+    },
+    {
+      "time": 87.655,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 87.864,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 88.073,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 88.422,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 88.631,
+      "lane": 1,
+      "type": "tap",
+      "duration": 0,
+      "color": "#ef4444",
+      "key": "S"
+    },
+    {
+      "time": 88.816,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 89.002,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 89.188,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 89.559,
+      "lane": 1,
+      "type": "tap",
+      "duration": 0,
+      "color": "#ef4444",
+      "key": "S"
+    },
+    {
+      "time": 89.908,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 90.302,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 90.651,
+      "lane": 1,
+      "type": "tap",
+      "duration": 0,
+      "color": "#ef4444",
+      "key": "S"
+    },
+    {
+      "time": 90.883,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 91.069,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 91.417,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 91.603,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 91.812,
+      "lane": 1,
+      "type": "tap",
+      "duration": 0,
+      "color": "#ef4444",
+      "key": "S"
+    },
+    {
+      "time": 92.16,
+      "lane": 1,
+      "type": "tap",
+      "duration": 0,
+      "color": "#ef4444",
+      "key": "S"
+    },
+    {
+      "time": 92.346,
+      "lane": 1,
+      "type": "tap",
+      "duration": 0,
+      "color": "#ef4444",
+      "key": "S"
+    },
+    {
+      "time": 92.555,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 92.903,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 93.112,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 93.298,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 93.669,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 93.878,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 94.064,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 94.412,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 94.621,
+      "lane": 1,
+      "type": "tap",
+      "duration": 0,
+      "color": "#ef4444",
+      "key": "S"
+    },
+    {
+      "time": 94.807,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 95.179,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 95.364,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 95.55,
+      "lane": 1,
+      "type": "tap",
+      "duration": 0,
+      "color": "#ef4444",
+      "key": "S"
+    },
+    {
+      "time": 95.736,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 95.922,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 96.107,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 96.293,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 96.479,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 96.665,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 96.85,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 97.036,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 97.408,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 97.593,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 97.802,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 98.151,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 98.545,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 98.731,
+      "lane": 1,
+      "type": "tap",
+      "duration": 0,
+      "color": "#ef4444",
+      "key": "S"
+    },
+    {
+      "time": 98.917,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 99.103,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 99.289,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 99.474,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 99.66,
+      "lane": 1,
+      "type": "tap",
+      "duration": 0,
+      "color": "#ef4444",
+      "key": "S"
+    },
+    {
+      "time": 99.846,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 100.055,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 100.403,
+      "lane": 1,
+      "type": "tap",
+      "duration": 0,
+      "color": "#ef4444",
+      "key": "S"
+    },
+    {
+      "time": 100.612,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 100.798,
+      "lane": 1,
+      "type": "tap",
+      "duration": 0,
+      "color": "#ef4444",
+      "key": "S"
+    },
+    {
+      "time": 101.146,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 101.355,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 101.541,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 101.727,
+      "lane": 1,
+      "type": "tap",
+      "duration": 0,
+      "color": "#ef4444",
+      "key": "S"
+    },
+    {
+      "time": 101.912,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 102.098,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 102.284,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 102.632,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 102.841,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 103.027,
+      "lane": 1,
+      "type": "tap",
+      "duration": 0,
+      "color": "#ef4444",
+      "key": "S"
+    },
+    {
+      "time": 103.375,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 103.584,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 103.77,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 104.141,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 104.327,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 104.536,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 104.722,
+      "lane": 1,
+      "type": "tap",
+      "duration": 0,
+      "color": "#ef4444",
+      "key": "S"
+    },
+    {
+      "time": 105.094,
+      "lane": 0,
+      "type": "tap",
+      "duration": 0,
+      "color": "#22c55e",
+      "key": "A"
+    },
+    {
+      "time": 105.279,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 105.651,
+      "lane": 1,
+      "type": "tap",
+      "duration": 0,
+      "color": "#ef4444",
+      "key": "S"
+    },
+    {
+      "time": 105.86,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 106.046,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 106.394,
+      "lane": 1,
+      "type": "tap",
+      "duration": 0,
+      "color": "#ef4444",
+      "key": "S"
+    },
+    {
+      "time": 106.603,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 106.789,
+      "lane": 1,
+      "type": "tap",
+      "duration": 0,
+      "color": "#ef4444",
+      "key": "S"
+    },
+    {
+      "time": 107.137,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 107.532,
+      "lane": 1,
+      "type": "tap",
+      "duration": 0,
+      "color": "#ef4444",
+      "key": "S"
+    },
+    {
+      "time": 107.903,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 108.089,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 108.298,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 108.646,
+      "lane": 1,
+      "type": "tap",
+      "duration": 0,
+      "color": "#ef4444",
+      "key": "S"
+    },
+    {
+      "time": 108.855,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 109.041,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 109.389,
+      "lane": 1,
+      "type": "tap",
+      "duration": 0,
+      "color": "#ef4444",
+      "key": "S"
+    },
+    {
+      "time": 109.598,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 109.807,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 110.155,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 110.364,
+      "lane": 1,
+      "type": "tap",
+      "duration": 0,
+      "color": "#ef4444",
+      "key": "S"
+    },
+    {
+      "time": 110.55,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 110.899,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 111.27,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 111.642,
+      "lane": 1,
+      "type": "tap",
+      "duration": 0,
+      "color": "#ef4444",
+      "key": "S"
+    },
+    {
+      "time": 111.851,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 112.036,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 112.385,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 112.594,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 112.779,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 113.128,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 113.337,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 113.522,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 113.871,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 114.08,
+      "lane": 1,
+      "type": "tap",
+      "duration": 0,
+      "color": "#ef4444",
+      "key": "S"
+    },
+    {
+      "time": 114.265,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 114.614,
+      "lane": 1,
+      "type": "tap",
+      "duration": 0,
+      "color": "#ef4444",
+      "key": "S"
+    },
+    {
+      "time": 114.823,
+      "lane": 1,
+      "type": "tap",
+      "duration": 0,
+      "color": "#ef4444",
+      "key": "S"
+    },
+    {
+      "time": 115.008,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 115.357,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 115.566,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 115.775,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 116.123,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 116.332,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 116.518,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 116.866,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 117.075,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 117.261,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 117.609,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 117.818,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 118.004,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 118.352,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 118.538,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 118.77,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 119.095,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 119.304,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 119.513,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 119.699,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 120.07,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 120.256,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 120.628,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 120.813,
+      "lane": 1,
+      "type": "tap",
+      "duration": 0,
+      "color": "#ef4444",
+      "key": "S"
+    },
+    {
+      "time": 120.999,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 121.185,
+      "lane": 1,
+      "type": "tap",
+      "duration": 0,
+      "color": "#ef4444",
+      "key": "S"
+    },
+    {
+      "time": 121.556,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 121.765,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 122.114,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 122.323,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 122.508,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 122.694,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 122.88,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 123.066,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 123.252,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 123.623,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 123.832,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 124.018,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 124.366,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 124.552,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 124.761,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 125.109,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 125.318,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 125.666,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 125.852,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 126.061,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 126.27,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 126.618,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 126.99,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 127.176,
+      "lane": 1,
+      "type": "tap",
+      "duration": 0,
+      "color": "#ef4444",
+      "key": "S"
+    },
+    {
+      "time": 127.547,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 127.779,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 128.104,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 128.313,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 128.499,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 128.871,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 129.242,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 129.614,
+      "lane": 1,
+      "type": "tap",
+      "duration": 0,
+      "color": "#ef4444",
+      "key": "S"
+    },
+    {
+      "time": 129.823,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 130.009,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 130.357,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 130.543,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 130.775,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 131.1,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 131.332,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 131.518,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 131.704,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 131.889,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 132.075,
+      "lane": 0,
+      "type": "tap",
+      "duration": 0,
+      "color": "#22c55e",
+      "key": "A"
+    },
+    {
+      "time": 132.423,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 132.632,
+      "lane": 0,
+      "type": "tap",
+      "duration": 0,
+      "color": "#22c55e",
+      "key": "A"
+    },
+    {
+      "time": 133.004,
+      "lane": 0,
+      "type": "tap",
+      "duration": 0,
+      "color": "#22c55e",
+      "key": "A"
+    },
+    {
+      "time": 133.352,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 133.584,
+      "lane": 0,
+      "type": "tap",
+      "duration": 0,
+      "color": "#22c55e",
+      "key": "A"
+    },
+    {
+      "time": 133.77,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 134.072,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 134.258,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 134.536,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 134.745,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 135.094,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 135.279,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 135.465,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 135.651,
+      "lane": 1,
+      "type": "tap",
+      "duration": 0,
+      "color": "#ef4444",
+      "key": "S"
+    },
+    {
+      "time": 135.86,
+      "lane": 0,
+      "type": "tap",
+      "duration": 0,
+      "color": "#22c55e",
+      "key": "A"
+    },
+    {
+      "time": 136.046,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 136.394,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 136.766,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 136.975,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 137.16,
+      "lane": 1,
+      "type": "tap",
+      "duration": 0,
+      "color": "#ef4444",
+      "key": "S"
+    },
+    {
+      "time": 137.346,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 137.532,
+      "lane": 1,
+      "type": "tap",
+      "duration": 0,
+      "color": "#ef4444",
+      "key": "S"
+    },
+    {
+      "time": 137.88,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 138.089,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 138.275,
+      "lane": 1,
+      "type": "tap",
+      "duration": 0,
+      "color": "#ef4444",
+      "key": "S"
+    },
+    {
+      "time": 138.461,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 138.646,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 138.832,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 139.018,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 139.389,
+      "lane": 0,
+      "type": "tap",
+      "duration": 0,
+      "color": "#22c55e",
+      "key": "A"
+    },
+    {
+      "time": 139.575,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 139.761,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 139.947,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 140.132,
+      "lane": 1,
+      "type": "tap",
+      "duration": 0,
+      "color": "#ef4444",
+      "key": "S"
+    },
+    {
+      "time": 140.318,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 140.504,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 140.852,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 141.061,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 141.247,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 141.456,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 141.827,
+      "lane": 0,
+      "type": "tap",
+      "duration": 0,
+      "color": "#22c55e",
+      "key": "A"
+    },
+    {
+      "time": 142.013,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 142.362,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 142.571,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 142.756,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 143.128,
+      "lane": 1,
+      "type": "tap",
+      "duration": 0,
+      "color": "#ef4444",
+      "key": "S"
+    },
+    {
+      "time": 143.337,
+      "lane": 1,
+      "type": "tap",
+      "duration": 0,
+      "color": "#ef4444",
+      "key": "S"
+    },
+    {
+      "time": 143.523,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 143.894,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 144.08,
+      "lane": 0,
+      "type": "tap",
+      "duration": 0,
+      "color": "#22c55e",
+      "key": "A"
+    },
+    {
+      "time": 144.451,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 144.66,
+      "lane": 1,
+      "type": "tap",
+      "duration": 0,
+      "color": "#ef4444",
+      "key": "S"
+    },
+    {
+      "time": 145.032,
+      "lane": 1,
+      "type": "tap",
+      "duration": 0,
+      "color": "#ef4444",
+      "key": "S"
+    },
+    {
+      "time": 145.403,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 145.589,
+      "lane": 1,
+      "type": "tap",
+      "duration": 0,
+      "color": "#ef4444",
+      "key": "S"
+    },
+    {
+      "time": 145.775,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 145.961,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 146.146,
+      "lane": 1,
+      "type": "tap",
+      "duration": 0,
+      "color": "#ef4444",
+      "key": "S"
+    },
+    {
+      "time": 146.332,
+      "lane": 1,
+      "type": "tap",
+      "duration": 0,
+      "color": "#ef4444",
+      "key": "S"
+    },
+    {
+      "time": 146.518,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 146.704,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 146.889,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 147.098,
+      "lane": 1,
+      "type": "tap",
+      "duration": 0,
+      "color": "#ef4444",
+      "key": "S"
+    },
+    {
+      "time": 147.284,
+      "lane": 1,
+      "type": "tap",
+      "duration": 0,
+      "color": "#ef4444",
+      "key": "S"
+    },
+    {
+      "time": 147.632,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 147.841,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 148.027,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 148.376,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 148.584,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 148.77,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 149.142,
+      "lane": 1,
+      "type": "tap",
+      "duration": 0,
+      "color": "#ef4444",
+      "key": "S"
+    },
+    {
+      "time": 149.351,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 149.537,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 149.885,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 150.094,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 150.303,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 150.651,
+      "lane": 1,
+      "type": "tap",
+      "duration": 0,
+      "color": "#ef4444",
+      "key": "S"
+    },
+    {
+      "time": 150.86,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 151.046,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 151.417,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 151.789,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 152.137,
+      "lane": 1,
+      "type": "tap",
+      "duration": 0,
+      "color": "#ef4444",
+      "key": "S"
+    },
+    {
+      "time": 152.346,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 152.532,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 152.88,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 153.089,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 153.298,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 153.646,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 153.855,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 154.041,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 154.389,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 154.784,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 154.97,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 155.156,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 155.341,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 155.527,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 155.876,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 156.085,
+      "lane": 0,
+      "type": "tap",
+      "duration": 0,
+      "color": "#22c55e",
+      "key": "A"
+    },
+    {
+      "time": 156.294,
+      "lane": 1,
+      "type": "tap",
+      "duration": 0,
+      "color": "#ef4444",
+      "key": "S"
+    },
+    {
+      "time": 156.479,
+      "lane": 1,
+      "type": "tap",
+      "duration": 0,
+      "color": "#ef4444",
+      "key": "S"
+    },
+    {
+      "time": 156.665,
+      "lane": 1,
+      "type": "tap",
+      "duration": 0,
+      "color": "#ef4444",
+      "key": "S"
+    },
+    {
+      "time": 157.037,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 157.385,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 157.571,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 157.78,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 158.128,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 158.337,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 158.523,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 158.708,
+      "lane": 1,
+      "type": "tap",
+      "duration": 0,
+      "color": "#ef4444",
+      "key": "S"
+    },
+    {
+      "time": 158.894,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 159.08,
+      "lane": 0,
+      "type": "tap",
+      "duration": 0,
+      "color": "#22c55e",
+      "key": "A"
+    },
+    {
+      "time": 159.266,
+      "lane": 1,
+      "type": "tap",
+      "duration": 0,
+      "color": "#ef4444",
+      "key": "S"
+    },
+    {
+      "time": 159.614,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 159.8,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 159.985,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 160.357,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 160.543,
+      "lane": 1,
+      "type": "tap",
+      "duration": 0,
+      "color": "#ef4444",
+      "key": "S"
+    },
+    {
+      "time": 160.752,
+      "lane": 1,
+      "type": "tap",
+      "duration": 0,
+      "color": "#ef4444",
+      "key": "S"
+    },
+    {
+      "time": 161.1,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 161.309,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 161.495,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 161.843,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 162.029,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 162.238,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 162.609,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 162.818,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 163.004,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 163.376,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 163.77,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 164.119,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 164.328,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 164.537,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 164.862,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 165.071,
+      "lane": 0,
+      "type": "tap",
+      "duration": 0,
+      "color": "#22c55e",
+      "key": "A"
+    },
+    {
+      "time": 165.256,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 165.442,
+      "lane": 1,
+      "type": "tap",
+      "duration": 0,
+      "color": "#ef4444",
+      "key": "S"
+    },
+    {
+      "time": 165.628,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 165.814,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 165.999,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 166.371,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 166.58,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 166.766,
+      "lane": 1,
+      "type": "tap",
+      "duration": 0,
+      "color": "#ef4444",
+      "key": "S"
+    },
+    {
+      "time": 167.114,
+      "lane": 1,
+      "type": "tap",
+      "duration": 0,
+      "color": "#ef4444",
+      "key": "S"
+    },
+    {
+      "time": 167.323,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 167.509,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 167.695,
+      "lane": 1,
+      "type": "tap",
+      "duration": 0,
+      "color": "#ef4444",
+      "key": "S"
+    },
+    {
+      "time": 167.88,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 168.066,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 168.252,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 168.6,
+      "lane": 1,
+      "type": "tap",
+      "duration": 0,
+      "color": "#ef4444",
+      "key": "S"
+    },
+    {
+      "time": 168.809,
+      "lane": 1,
+      "type": "tap",
+      "duration": 0,
+      "color": "#ef4444",
+      "key": "S"
+    },
+    {
+      "time": 168.995,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 169.181,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 169.366,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 169.552,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 169.784,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 170.133,
+      "lane": 1,
+      "type": "tap",
+      "duration": 0,
+      "color": "#ef4444",
+      "key": "S"
+    },
+    {
+      "time": 170.318,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 170.527,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 170.876,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 171.061,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 171.27,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 171.619,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 171.828,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 172.013,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 172.362,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 172.571,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 172.78,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 173.128,
+      "lane": 1,
+      "type": "tap",
+      "duration": 0,
+      "color": "#ef4444",
+      "key": "S"
+    },
+    {
+      "time": 173.523,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 173.871,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 174.08,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 174.266,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 174.637,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 174.846,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 175.032,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 175.38,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 175.566,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 175.798,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 176.147,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 176.356,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 176.541,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 176.727,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 176.913,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 177.099,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 177.284,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 177.656,
+      "lane": 1,
+      "type": "tap",
+      "duration": 0,
+      "color": "#ef4444",
+      "key": "S"
+    },
+    {
+      "time": 177.842,
+      "lane": 0,
+      "type": "tap",
+      "duration": 0,
+      "color": "#22c55e",
+      "key": "A"
+    },
+    {
+      "time": 178.027,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 178.376,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 178.585,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 178.794,
+      "lane": 1,
+      "type": "tap",
+      "duration": 0,
+      "color": "#ef4444",
+      "key": "S"
+    },
+    {
+      "time": 179.142,
+      "lane": 1,
+      "type": "tap",
+      "duration": 0,
+      "color": "#ef4444",
+      "key": "S"
+    },
+    {
+      "time": 179.513,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 179.885,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 180.094,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 180.28,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 180.628,
+      "lane": 1,
+      "type": "tap",
+      "duration": 0,
+      "color": "#ef4444",
+      "key": "S"
+    },
+    {
+      "time": 180.837,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 181.023,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 181.209,
+      "lane": 1,
+      "type": "tap",
+      "duration": 0,
+      "color": "#ef4444",
+      "key": "S"
+    },
+    {
+      "time": 181.58,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 181.766,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 182.114,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 182.323,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 182.509,
+      "lane": 1,
+      "type": "tap",
+      "duration": 0,
+      "color": "#ef4444",
+      "key": "S"
+    },
+    {
+      "time": 182.857,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 183.043,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 183.252,
+      "lane": 1,
+      "type": "tap",
+      "duration": 0,
+      "color": "#ef4444",
+      "key": "S"
+    },
+    {
+      "time": 183.6,
+      "lane": 1,
+      "type": "tap",
+      "duration": 0,
+      "color": "#ef4444",
+      "key": "S"
+    },
+    {
+      "time": 183.809,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 183.995,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 184.343,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 184.552,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 184.738,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 185.086,
+      "lane": 1,
+      "type": "tap",
+      "duration": 0,
+      "color": "#ef4444",
+      "key": "S"
+    },
+    {
+      "time": 185.295,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 185.481,
+      "lane": 1,
+      "type": "tap",
+      "duration": 0,
+      "color": "#ef4444",
+      "key": "S"
+    },
+    {
+      "time": 185.667,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 186.038,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 186.224,
+      "lane": 1,
+      "type": "tap",
+      "duration": 0,
+      "color": "#ef4444",
+      "key": "S"
+    },
+    {
+      "time": 186.596,
+      "lane": 1,
+      "type": "tap",
+      "duration": 0,
+      "color": "#ef4444",
+      "key": "S"
+    },
+    {
+      "time": 186.805,
+      "lane": 0,
+      "type": "tap",
+      "duration": 0,
+      "color": "#22c55e",
+      "key": "A"
+    },
+    {
+      "time": 186.99,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 187.176,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 187.362,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 187.548,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 187.757,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 188.105,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 188.291,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 188.5,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 188.685,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 188.871,
+      "lane": 1,
+      "type": "tap",
+      "duration": 0,
+      "color": "#ef4444",
+      "key": "S"
+    },
+    {
+      "time": 189.057,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 189.266,
+      "lane": 1,
+      "type": "tap",
+      "duration": 0,
+      "color": "#ef4444",
+      "key": "S"
+    },
+    {
+      "time": 189.614,
+      "lane": 1,
+      "type": "tap",
+      "duration": 0,
+      "color": "#ef4444",
+      "key": "S"
+    },
+    {
+      "time": 189.986,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 190.357,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 190.566,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 190.775,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 191.123,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 191.332,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 191.518,
+      "lane": 1,
+      "type": "tap",
+      "duration": 0,
+      "color": "#ef4444",
+      "key": "S"
+    },
+    {
+      "time": 191.704,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 191.89,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 192.238,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 192.61,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 192.981,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    }
+  ],
+  "config": {
+    "colors": [
+      "#22c55e",
+      "#ef4444",
+      "#eab308",
+      "#3b82f6"
+    ],
+    "keys": [
+      "A",
+      "S",
+      "D",
+      "F"
+    ],
+    "lanes": 4
+  }
+}

@@ -1,0 +1,342 @@
+{
+  "metadata": {
+    "title": "Matilde Lina",
+    "artist": "Carlos Vives",
+    "difficulty": "medio",
+    "total_notes": 750,
+    "duration": 240.0,
+    "audio_file": "public/music/Matilde lina.mp3",
+    "created": "auto-generated"
+  },
+  "chart": [
+    {
+      "time": 0.5,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 0.8,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 1.1,
+      "lane": 1,
+      "type": "tap",
+      "duration": 0,
+      "color": "#ef4444",
+      "key": "S"
+    },
+    {
+      "time": 1.4,
+      "lane": 0,
+      "type": "tap",
+      "duration": 0,
+      "color": "#22c55e",
+      "key": "A"
+    },
+    {
+      "time": 1.7,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 2.0,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 2.3,
+      "lane": 1,
+      "type": "tap",
+      "duration": 0,
+      "color": "#ef4444",
+      "key": "S"
+    },
+    {
+      "time": 2.6,
+      "lane": 0,
+      "type": "tap",
+      "duration": 0,
+      "color": "#22c55e",
+      "key": "A"
+    },
+    {
+      "time": 2.9,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 3.2,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 3.5,
+      "lane": 1,
+      "type": "tap",
+      "duration": 0,
+      "color": "#ef4444",
+      "key": "S"
+    },
+    {
+      "time": 3.8,
+      "lane": 0,
+      "type": "tap",
+      "duration": 0,
+      "color": "#22c55e",
+      "key": "A"
+    },
+    {
+      "time": 4.1,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 4.4,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 4.7,
+      "lane": 1,
+      "type": "tap",
+      "duration": 0,
+      "color": "#ef4444",
+      "key": "S"
+    },
+    {
+      "time": 5.0,
+      "lane": 0,
+      "type": "tap",
+      "duration": 0,
+      "color": "#22c55e",
+      "key": "A"
+    },
+    {
+      "time": 5.3,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 5.6,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 5.9,
+      "lane": 1,
+      "type": "tap",
+      "duration": 0,
+      "color": "#ef4444",
+      "key": "S"
+    },
+    {
+      "time": 6.2,
+      "lane": 0,
+      "type": "tap",
+      "duration": 0,
+      "color": "#22c55e",
+      "key": "A"
+    },
+    {
+      "time": 6.5,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 6.8,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 7.1,
+      "lane": 1,
+      "type": "tap",
+      "duration": 0,
+      "color": "#ef4444",
+      "key": "S"
+    },
+    {
+      "time": 7.4,
+      "lane": 0,
+      "type": "tap",
+      "duration": 0,
+      "color": "#22c55e",
+      "key": "A"
+    },
+    {
+      "time": 7.7,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 8.0,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 8.3,
+      "lane": 1,
+      "type": "tap",
+      "duration": 0,
+      "color": "#ef4444",
+      "key": "S"
+    },
+    {
+      "time": 8.6,
+      "lane": 0,
+      "type": "tap",
+      "duration": 0,
+      "color": "#22c55e",
+      "key": "A"
+    },
+    {
+      "time": 8.9,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 9.2,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 9.5,
+      "lane": 1,
+      "type": "tap",
+      "duration": 0,
+      "color": "#ef4444",
+      "key": "S"
+    },
+    {
+      "time": 9.8,
+      "lane": 0,
+      "type": "tap",
+      "duration": 0,
+      "color": "#22c55e",
+      "key": "A"
+    },
+    {
+      "time": 10.1,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 10.4,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 10.7,
+      "lane": 1,
+      "type": "tap",
+      "duration": 0,
+      "color": "#ef4444",
+      "key": "S"
+    },
+    {
+      "time": 11.0,
+      "lane": 0,
+      "type": "tap",
+      "duration": 0,
+      "color": "#22c55e",
+      "key": "A"
+    },
+    {
+      "time": 11.3,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    },
+    {
+      "time": 11.6,
+      "lane": 2,
+      "type": "tap",
+      "duration": 0,
+      "color": "#eab308",
+      "key": "D"
+    },
+    {
+      "time": 11.9,
+      "lane": 1,
+      "type": "tap",
+      "duration": 0,
+      "color": "#ef4444",
+      "key": "S"
+    },
+    {
+      "time": 12.2,
+      "lane": 0,
+      "type": "tap",
+      "duration": 0,
+      "color": "#22c55e",
+      "key": "A"
+    },
+    {
+      "time": 12.5,
+      "lane": 3,
+      "type": "tap",
+      "duration": 0,
+      "color": "#3b82f6",
+      "key": "F"
+    }
+  ],
+  "config": {}
+}
