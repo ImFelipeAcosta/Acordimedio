@@ -1,20 +1,13 @@
 import { motion } from 'framer-motion'
-import { FaTimes, FaPlay, FaFilm, FaPause, FaVolumeMute, FaVolumeUp } from 'react-icons/fa'
+import { FaTimes, FaPlay, FaFilm } from 'react-icons/fa'
 import { GiAccordion } from 'react-icons/gi'
-import { useRef, useState, useEffect } from 'react'
+import { useState, useEffect } from 'react'
 
 const DocumentalModal = ({ onClose }) => {
-  const videoRef = useRef(null)
-  const [isPlaying, setIsPlaying] = useState(false)
-  const [currentTime, setCurrentTime] = useState(0)
-  const [duration, setDuration] = useState(0)
-  const [isMuted, setIsMuted] = useState(false)
-  const [volume, setVolume] = useState(0.7)
+  const [isVideoPlaying, setIsVideoPlaying] = useState(false)
 
   // Pausar música de fondo cuando se abre el modal
   useEffect(() => {
-    // NO pausamos la música cuando se abre el modal
-    // Solo la pausaremos cuando el usuario presione play en el video
     return () => {
       // Reanudar música cuando se cierra el modal
       if (window.audioController) {
@@ -23,103 +16,8 @@ const DocumentalModal = ({ onClose }) => {
     }
   }, [])
 
-  const handlePlayPause = () => {
-    if (videoRef.current) {
-      if (isPlaying) {
-        // Pausa el video
-        videoRef.current.pause()
-        setIsPlaying(false)
-        // Fade in de la música
-        if (window.audioController) {
-          window.audioController.fadeIn(1000)
-        }
-      } else {
-        // Reanuda el video
-        videoRef.current.play()
-        setIsPlaying(true)
-        // Fade out de la música
-        if (window.audioController) {
-          window.audioController.fadeOut(1000)
-        }
-      }
-    }
-  }
-
-  const handleTimeUpdate = () => {
-    if (videoRef.current) {
-      setCurrentTime(videoRef.current.currentTime)
-    }
-  }
-
-  const handleLoadedMetadata = () => {
-    if (videoRef.current) {
-      setDuration(videoRef.current.duration)
-    }
-  }
-
-  const handleProgressChange = (e) => {
-    const newTime = parseFloat(e.target.value)
-    if (videoRef.current) {
-      videoRef.current.currentTime = newTime
-      setCurrentTime(newTime)
-    }
-  }
-
-  const handleVolumeChange = (e) => {
-    const newVolume = parseFloat(e.target.value)
-    setVolume(newVolume)
-    if (videoRef.current) {
-      videoRef.current.volume = newVolume
-      if (newVolume > 0 && isMuted) {
-        setIsMuted(false)
-      }
-    }
-  }
-
-  const toggleMute = () => {
-    if (videoRef.current) {
-      videoRef.current.muted = !isMuted
-      setIsMuted(!isMuted)
-    }
-  }
-
-  const formatTime = (time) => {
-    if (!time || isNaN(time)) return '0:00'
-    const minutes = Math.floor(time / 60)
-    const seconds = Math.floor(time % 60)
-    return `${minutes}:${seconds < 10 ? '0' : ''}${seconds}`
-  }
-
-  // Convertir tiempo de string "MM:SS" a segundos
-  const timeToSeconds = (timeString) => {
-    const parts = timeString.split(':')
-    const minutes = parseInt(parts[0], 10) || 0
-    const seconds = parseInt(parts[1], 10) || 0
-    return minutes * 60 + seconds
-  }
-
-  // Ir a un capítulo específico
-  const goToChapter = (timeString) => {
-    const targetTime = timeToSeconds(timeString)
-    if (videoRef.current) {
-      videoRef.current.currentTime = targetTime
-      setCurrentTime(targetTime)
-      // Reproducir automáticamente
-      videoRef.current.play()
-      setIsPlaying(true)
-      // Fade out de la música
-      if (window.audioController) {
-        window.audioController.fadeOut(1000)
-      }
-    }
-  }
-
   // Pausar el video cuando se cierra el modal
   const handleClose = () => {
-    if (videoRef.current) {
-      videoRef.current.pause()
-      setIsPlaying(false)
-    }
     onClose()
   }
 
@@ -670,97 +568,20 @@ const DocumentalModal = ({ onClose }) => {
 
           {/* Contenido con padding - NO tiene scroll, el padre lo tiene */}
           <div className="px-6 py-6 relative z-10">
-          {/* Video Player */}
+          {/* Video Player - YouTube */}
           <div className="relative bg-black rounded-xl overflow-hidden shadow-2xl mb-6">
-            {/* Video element */}
-            <video
-              ref={videoRef}
-              onTimeUpdate={handleTimeUpdate}
-              onLoadedMetadata={handleLoadedMetadata}
-              className="w-full aspect-video bg-black"
-            >
-              <source src="/DocumentalAcordeon.mp4" type="video/mp4" />
-              Tu navegador no soporta el elemento de video.
-            </video>
-            
-            {/* Overlay de controles */}
-            <div className="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black/90 via-black/50 to-transparent p-4">
-              {/* Barra de progreso */}
-              <div className="flex items-center gap-2 mb-3">
-                <input
-                  type="range"
-                  min="0"
-                  max={duration || 0}
-                  value={currentTime}
-                  onChange={handleProgressChange}
-                  className="flex-1 h-1 bg-gray-600 rounded-full cursor-pointer appearance-none"
-                  style={{
-                    background: `linear-gradient(to right, #EF4444 0%, #EF4444 ${(currentTime / duration) * 100}%, #4B5563 ${(currentTime / duration) * 100}%, #4B5563 100%)`
-                  }}
-                />
-              </div>
-
-              {/* Controles inferiores */}
-              <div className="flex items-center justify-between">
-                <div className="flex items-center gap-3">
-                  {/* Botón Play/Pause */}
-                  <motion.button
-                    whileHover={{ scale: 1.1 }}
-                    whileTap={{ scale: 0.9 }}
-                    onClick={handlePlayPause}
-                    className="flex items-center justify-center text-white rounded-3xl transition-all"
-                    style={{
-                      width: '48px',
-                      height: '48px',
-                      background: '#EF4444',
-                      filter: 'blur(0.3px)',
-                      boxShadow: '0 4px 12px rgba(239, 68, 68, 0.4)'
-                    }}
-                  >
-                    {isPlaying ? (
-                      <FaPause className="text-xl" />
-                    ) : (
-                      <FaPlay className="text-xl ml-1" />
-                    )}
-                  </motion.button>
-
-                  {/* Control de volumen */}
-                  <div className="flex items-center gap-2">
-                    <motion.button
-                      whileHover={{ scale: 1.1 }}
-                      whileTap={{ scale: 0.9 }}
-                      onClick={toggleMute}
-                      className="text-white hover:text-red-400 transition-colors"
-                    >
-                      {isMuted || volume === 0 ? (
-                        <FaVolumeMute className="text-lg" />
-                      ) : (
-                        <FaVolumeUp className="text-lg" />
-                      )}
-                    </motion.button>
-                    <input
-                      type="range"
-                      min="0"
-                      max="1"
-                      step="0.1"
-                      value={volume}
-                      onChange={handleVolumeChange}
-                      className="w-20 h-1 bg-gray-600 rounded-full cursor-pointer appearance-none"
-                      style={{
-                        background: `linear-gradient(to right, #EF4444 0%, #EF4444 ${volume * 100}%, #4B5563 ${volume * 100}%, #4B5563 100%)`
-                      }}
-                    />
-                  </div>
-
-                  {/* Tiempo actual / Duración */}
-                  <span className="text-sm text-white font-semibold ml-2">
-                    {formatTime(currentTime)} / {formatTime(duration)}
-                  </span>
-                </div>
-
-                {/* Pantalla completa sería aquí (opcional) */}
-              </div>
-            </div>
+            <iframe
+              width="100%"
+              height="600"
+              src="https://www.youtube.com/embed/JXFHdKXFFl0"
+              title="Documental - El Acordeón de Juan Sebastián"
+              frameBorder="0"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+              allowFullScreen
+              className="w-full aspect-video"
+              onPlay={() => setIsVideoPlaying(true)}
+              onPause={() => setIsVideoPlaying(false)}
+            ></iframe>
           </div>
 
           {/* Descripción del documental con fondo rojo pastel */}
@@ -783,54 +604,6 @@ const DocumentalModal = ({ onClose }) => {
               con cada melodía, une a los que extrañan su país, recordándoles que la identidad y la cultura viajan 
               con nosotros, donde sea que suene un acordeón siempre será un símbolo de los colombianos.
             </p>
-          </div>
-
-          {/* Capítulos */}
-          <div className="mb-6">
-            <h3 className="text-2xl font-bold text-gray-800 mb-4">
-              Capítulos
-            </h3>
-            <div className="space-y-3">
-              {[
-                { time: '00:00', title: 'Introducción: El acordeón de juguete' },
-                { time: '00:40', title: 'El primer acordeón' },
-                { time: '01:45', title: '¡Rey vallenato!' },
-                { time: '04:20', title: 'La aviación' },
-                { time: '05:16', title: 'Buscando nuevas oportunidades' },
-                { time: '06:27', title: 'Sobreviviendo a punta de acordeón' },
-                { time: '07:30', title: 'Conclusión: El acordeón como símbolo de la cultura colombiana' },
-              ].map((chapter, index) => (
-                <motion.div
-                  key={index}
-                  whileHover={{ x: 5, scale: 1.02 }}
-                  className="flex items-center gap-4 p-4 rounded-lg bg-white shadow transition-all hover:shadow-lg"
-                >
-                  {/* Timestamp con forma acuarela */}
-                  <div className="flex items-center justify-center text-white font-bold text-sm rounded-3xl"
-                       style={{
-                         width: '70px',
-                         height: '70px',
-                         background: 'linear-gradient(135deg, #EF4444 0%, #DC2626 100%)',
-                         filter: 'blur(0.3px)',
-                         boxShadow: '0 4px 12px rgba(239, 68, 68, 0.3)'
-                       }}>
-                    {chapter.time}
-                  </div>
-                  <div className="flex-1">
-                    <p className="font-semibold text-gray-800">{chapter.title}</p>
-                    <p className="text-sm text-gray-500">Capítulo {index + 1}</p>
-                  </div>
-                  <motion.button
-                    whileHover={{ scale: 1.1 }}
-                    whileTap={{ scale: 0.95 }}
-                    onClick={() => goToChapter(chapter.time)}
-                    className="flex items-center justify-center cursor-pointer transition-all hover:text-red-600 text-red-500"
-                  >
-                    <FaPlay className="text-xl" />
-                  </motion.button>
-                </motion.div>
-              ))}
-            </div>
           </div>
 
           {/* Créditos */}
