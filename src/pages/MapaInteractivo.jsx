@@ -195,7 +195,7 @@ const MapaInteractivo = () => {
         >
           <div className="relative w-full h-full" style={{ overflow: 'visible' }}>
             <img
-              src="/src/assets/images/Mapa.png"
+              src="/images/Mapa.png"
               alt="Mapa de Colombia"
               className="w-full h-full object-contain"
               style={{ display: 'block' }}
